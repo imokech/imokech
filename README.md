@@ -9,6 +9,12 @@
  </a>
 </p>
 
+</br>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/imokech/imokech/main/assets/Night-Coding.gif" align="center" style="max-width: 100%;">
+</br>
+
+## Tech
+<hr>
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP&link=https://github.com/imokech)](https://github.com/imokech)
 [![GO](https://img.shields.io/badge/-GO-black?style=flat&logo=GO&link=https://github.com/imokech)](https://github.com/imokech)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/imokech)](https://github.com/imokech)
@@ -28,7 +34,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 </br>
 </br>
+## Stats
+<hr>
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=imokech&show_icons=true&theme=radical)
+<br>
 [![Mohammad's github activity graph](https://activity-graph.herokuapp.com/graph?username=imokech&theme=dracula)](https://github.com/imokech/github-readme-activity-graph)
 <!--
 **imokech/imokech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
