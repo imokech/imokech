@@ -16,7 +16,7 @@
 [![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&link=https://github.com/imokech)](https://imokech.com/imokech) 
 [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/imokech)](https://imokech.com/imokech) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuejs)&nbsp;
+![Vue]( https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/imokech)](https://github.com/imokech) 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
