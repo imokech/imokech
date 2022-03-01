@@ -9,9 +9,6 @@
  </a>
 </p>
 
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP&link=https://github.com/imokech)](https://github.com/imokech)
 [![GO](https://img.shields.io/badge/-GO-black?style=flat&logo=GO&link=https://github.com/imokech)](https://github.com/imokech)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/imokech)](https://github.com/imokech)
@@ -29,7 +26,8 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=imokech&show_icons=true&theme=radical)
+[![Mohammad's github activity graph](https://activity-graph.herokuapp.com/graph?username=imokech&theme=dracula)](https://github.com/imokech/github-readme-activity-graph)
 <!--
 **imokech/imokech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
