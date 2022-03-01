@@ -13,9 +13,10 @@
 [![GO](https://img.shields.io/badge/-GO-black?style=flat&logo=GO&link=https://github.com/imokech)](https://github.com/imokech)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/imokech)](https://github.com/imokech)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/imokech)](https://github.com/imokech) 
-[![Laravel](https://img.shields.io/badge/-Laravel-blue?style=flat&logo=Laravel&link=https://github.com/imokech)](https://imokech.com/imokech) 
+[![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&link=https://github.com/imokech)](https://imokech.com/imokech) 
 [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/imokech)](https://imokech.com/imokech) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=javascript)&nbsp;
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/imokech)](https://github.com/imokech) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/imokech)](https://github.com/imokech) 
@@ -26,6 +27,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+</br>
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=imokech&show_icons=true&theme=radical)
 [![Mohammad's github activity graph](https://activity-graph.herokuapp.com/graph?username=imokech&theme=dracula)](https://github.com/imokech/github-readme-activity-graph)
 <!--
