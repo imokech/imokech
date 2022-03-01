@@ -5,7 +5,7 @@
    <img src="https://img.shields.io/badge/-@imokech-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/mohammad-keshavarz-c/" alt="Mohammad Keshavarz's linkedin account">
-   <img src="https://img.shields.io/badge/-mohammad-keshavarz-c-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-keshavarz-c" />
+   <img src="https://img.shields.io/badge/linkedin-Mohammad%20Keshavarz-bluestyle=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-keshavarz-c" />
  </a>
 </p>
 
