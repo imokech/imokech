@@ -10,7 +10,7 @@
 </p>
 
 </br>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/imokech/imokech/main/assets/Night-Coding.gif" align="center" style="max-width: 100%;">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/imokech/imokech/main/assets/Night-Coding.gif" align="center" style="max-width: 100%;"/>
 </br>
 
 ## Tech
