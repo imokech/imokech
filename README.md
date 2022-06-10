@@ -7,14 +7,13 @@
  <a href="https://www.linkedin.com/in/mohammad-keshavarz-c/" alt="Mohammad Keshavarz's linkedin account">
    <img src="https://img.shields.io/badge/linkedin-Mohammad%20Keshavarz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-keshavarz-c" />
  </a>
+ <img src="https://komarev.com/ghpvc/?username=imokech"/>
 </p>
 
 </br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/imokech/imokech/main/assets/Night-Coding.gif" align="center" style="max-width: 100%;"/>
 </br>
-<img src="https://komarev.com/ghpvc/?username=imokech"/>
 
-[Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/imokech)
 
 ## Tech
 
