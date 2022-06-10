@@ -12,6 +12,9 @@
 </br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/imokech/imokech/main/assets/Night-Coding.gif" align="center" style="max-width: 100%;"/>
 </br>
+<img src="https://komarev.com/ghpvc/?username=imokech"/>
+
+[Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/imokech)
 
 ## Tech
 
@@ -35,6 +38,9 @@
 </br>
 </br>
 ## Stats
+
+[Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imokech&theme=blue-green)
+
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=imokech&show_icons=true&theme=radical)
 </br>
 [![Mohammad's github activity graph](https://activity-graph.herokuapp.com/graph?username=imokech&theme=dracula)](https://github.com/imokech/github-readme-activity-graph)
